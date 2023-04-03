@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Terra Tretter and I'm a CS student at Weber State. 
+My name is Victor and I'm a recent Computer Science graduate from Weber State. I'm eager to put my degree to use :) 
 
 <!--
 **TretterTR/TretterTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
